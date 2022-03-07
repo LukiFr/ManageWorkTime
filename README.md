@@ -8,5 +8,7 @@ Features
 - Creating and deleting users, work days
 - Display data with summarize work time
 
+Before run live preview, enable CORS in your browser.
+
 https://manage-work-time.herokuapp.com/main
 
